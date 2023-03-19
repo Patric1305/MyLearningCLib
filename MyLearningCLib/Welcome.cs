@@ -6,7 +6,7 @@ namespace MyLearningCLib
     {
      public static string Greet(string name)
         {
-            return $"{name}";
+            return $" Welcome {name}";
         }
 
     }
