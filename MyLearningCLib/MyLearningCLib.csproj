@@ -1,6 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+	  <PackageId>MyLearningCLib</PackageId>
+	  <RepositoryType>git</RepositoryType>
+	  <RepositoryUrl>https://github.com/Patric1305/MyLearningCLib</RepositoryUrl>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
